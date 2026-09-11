@@ -1,0 +1,16 @@
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+
+# Raw Yelp data (download locally)
+yelp_ca_sample/
+*.zip

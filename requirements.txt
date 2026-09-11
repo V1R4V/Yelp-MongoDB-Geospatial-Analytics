@@ -1,0 +1,6 @@
+jupyter
+pandas
+pymongo
+geopandas
+shapely
+matplotlib
