@@ -47,3 +47,7 @@ jupyter lab yelp_mongodb_analysis.ipynb
 ```
 
 The raw Yelp data isn't committed; see the [Yelp Open Dataset](https://www.yelp.com/dataset) and its terms.
+
+---
+
+*Date finished: March 2, 2026*
